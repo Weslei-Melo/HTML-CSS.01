@@ -1,0 +1,104 @@
+body{
+  margin: 0;
+  /*border: 1px solid red;*/
+  min-width: 100vh;
+  background-color: #2F2E41;
+}
+
+header{
+  width: 1300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 71px 98px 82px 99px;
+  /*border: 1px solid blue;*/
+}
+
+main{
+  width: 1300px;
+  display: flex;
+  
+  align-items: center;
+  margin: 0 78px 176px 110px;
+  /*border: 1px solid green;*/
+}
+
+h1{
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+
+  font-family: 'JetBrains Mono', monospace;
+}
+
+h1 span{
+  color: #00BFA6;
+}
+p span{
+  color: #00BFA6;
+}
+p span1{
+  color: #C2C2C2;
+}
+
+text p{
+  color: #7D7987;
+}
+
+p{
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+
+  font-family: 'Open Sans', sans-serif;
+}
+ul {
+  display: flex;
+  gap: 64px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#logo{
+  margin: 0;
+}
+
+footer{
+  font-size: 14px;
+  line-height: 28px;
+  
+
+  text-align: center;
+}
+
+h1, p, ul{
+  color: white;
+}
+
+#cadeado{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+footer span{
+  color: #7D7987;
+}
+ul li:hover{
+  cursor: pointer;
+  color: blueviolet;
+}
+
+footer span:hover{
+  cursor: pointer;
+  color: blueviolet;
+}
+
+
+.line {
+    width: 568px;
+    height: 0;
+    margin: 0 auto 4px;
+    border: 0.5px solid #00BFA6;
+    
+}
