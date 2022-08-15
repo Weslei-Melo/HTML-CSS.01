@@ -12,7 +12,7 @@ Coteudo visto:
 - Utilização da ferramenta FIGMA
 - Conhecendo o Dev tools do Browser
 - Posicionamento de elementos
-- Conceitos sobre Box Model e Flexbox
+- Conceitos sobre Box Model e Flexbox.
 
 ## Resultado Final
 
